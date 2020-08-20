@@ -4,7 +4,7 @@ Objective of the project is to detect a face in the image (termed as target imag
 Geometric Computer Vision at the Univeristy of Maryland-College Park.<br/>
 <p align="center">
 <img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/1.jpeg" width="305">
-<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/2.jpeg" width="198">
+<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/2.jpeg" width="190">
 </p>
 
 <p align="center">
