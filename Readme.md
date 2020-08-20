@@ -8,7 +8,7 @@ Geometric Computer Vision at the Univeristy of Maryland-College Park.<br/>
 </p>
 
 <p align="center">
-<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Results/tps_Swap_img.png"width="400">
+<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Results/tps_Swap_img.png"width="200">
 </p>
 
 For classical approach 2 methods were implemented-  
@@ -56,7 +56,7 @@ __Note:__ For this project, frontal face detector has been used, thus it does no
 
 To run the PRNet deep learning model, download the repository provided in the above link along with the data from google drive.
 
-From the PRNET_files directory copy the below files to the downloaded PRNet repository:  
+From the PRNet_files directory copy the below files to the downloaded PRNet repository:  
 1) demo_copy.py  
 2) tpsDeepLearning.py  
 3) api.py  
@@ -73,3 +73,15 @@ This version only allows to either swap faces in 2 images, or swap 2 faces withi
 ```
 python demo_copy.py --isKpt=True --swap_within_vid=1 --video_path=<path>
 ```
+
+### Contact Information
+Name: Varun Asthana  
+Email id: varunasthana92@gmail.com
+
+### Acknowledgements
+@inProceedings{feng2018prn,
+  title     = {Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network},
+  author    = {Yao Feng and Fan Wu and Xiaohu Shao and Yanfeng Wang and Xi Zhou},
+  booktitle = {ECCV},
+  year      = {2018}
+}
