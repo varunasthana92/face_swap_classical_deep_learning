@@ -3,8 +3,8 @@
 Objective of the project is to detect a face in the image (termed as target image) and replace it with another face from a source image. Project was part of the academic coursework CMSC733-Classical and Deep Learning Approaches for
 Geometric Computer Vision at the Univeristy of Maryland-College Park.<br/>
 <p align="center">
-<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/1.jpeg" width="300">
-<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/2.jpeg" width="200">
+<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/1.jpeg" width="305">
+<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/2.jpeg" width="198">
 </p>
 
 <p align="center">
@@ -78,6 +78,6 @@ python demo_copy.py --isKpt=True --swap_within_vid=1 --video_path=<path>
 Name: Varun Asthana  
 Email id: varunasthana92@gmail.com
 
-## Acknowledgements
+## References
 
 [Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network](https://arxiv.org/abs/1803.07835), ECCV, 2018.
