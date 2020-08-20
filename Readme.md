@@ -4,11 +4,11 @@ Objective of the project is to detect a face in the image (termed as target imag
 Geometric Computer Vision at the Univeristy of Maryland-College Park.<br/>
 <p align="center">
 <img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/1.jpeg" width="300">
-<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/2.jpeg" width="250">
+<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/2.jpeg" width="200">
 </p>
 
 <p align="center">
-<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Results/tps_Swap_img.png"width="200">
+<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Results/tps_Swap_img.png"width="250">
 </p>
 
 For classical approach 2 methods were implemented-  
@@ -74,10 +74,10 @@ This version only allows to either swap faces in 2 images, or swap 2 faces withi
 python demo_copy.py --isKpt=True --swap_within_vid=1 --video_path=<path>
 ```
 
-### Contact Information
+## Contact Information
 Name: Varun Asthana  
 Email id: varunasthana92@gmail.com
 
-### Acknowledgements
+## Acknowledgements
 
 [Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network](https://arxiv.org/abs/1803.07835), ECCV, 2018.
