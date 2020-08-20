@@ -3,12 +3,12 @@
 Objective of the project is to detect a face in the image (termed as target image) and replace it with another face from a source image. Project was part of the academic coursework CMSC733-Classical and Deep Learning Approaches for
 Geometric Computer Vision at the Univeristy of Maryland-College Park.<br/>
 <p align="center">
-<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/1.jpeg" width="200">
+<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/1.jpeg" width="400">
 <img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/2.jpeg" width="200">
 </p>
 
 <p align="center">
-<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Results/tps_Swap_img.png">
+<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Results/tps_Swap_img.png"width="600">
 </p>
 
 For classical approach 2 methods were implemented-  
