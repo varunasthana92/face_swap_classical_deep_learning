@@ -11,6 +11,15 @@ Geometric Computer Vision at the Univeristy of Maryland-College Park.<br/>
 <img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Results/tps_Swap_img.png"width="250">
 </p>
 
+<p align="center">
+<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/Rambo.jpeg" width="300">
+<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/3.png" width="300">
+</p>
+
+<p align="center">
+<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Results/rambo_girl.gif">
+</p>
+
 For classical approach 2 methods were implemented-  
 1) Thin Plate Spline (TPS)  
 2) Delaunay Triangulation (DT)  
