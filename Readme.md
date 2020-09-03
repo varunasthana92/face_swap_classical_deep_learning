@@ -12,7 +12,7 @@ Geometric Computer Vision at the Univeristy of Maryland-College Park.<br/>
 </p>
 
 <p align="center">
-<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/Rambo.jpeg" width="300">
+<img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/rambo.png" width="300">
 <img src="https://github.com/varunasthana92/face_swap_classical_deep_learning/blob/master/Data/3.png" width="300">
 </p>
 
